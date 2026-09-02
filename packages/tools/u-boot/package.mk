@@ -3,12 +3,12 @@
 # Copyright (C) 2017-present Team LibreELEC (https://libreelec.tv)
 
 PKG_NAME="u-boot"
-PKG_VERSION="2026.07"
-PKG_SHA256="78e8bfc382fe388f9b55aa1daf8c563522a037779b5d4c349d1415e381f1243e"
+PKG_VERSION="266dafd1c89c50ce506cc4f95387a003ea9b5a6b"
+PKG_SHA256="f41ab66589bea0286c794a64e5265f7e9b3b60aa2094b114c33d5d139137d893"
 PKG_ARCH="arm aarch64"
 PKG_LICENSE="GPL-2.0-or-later"
-PKG_SITE="https://www.denx.de/wiki/U-Boot"
-PKG_URL="https://ftp.denx.de/pub/u-boot/${PKG_NAME}-${PKG_VERSION}.tar.bz2"
+PKG_SITE="https://github.com/Raspberry-Monster/u-boot"
+PKG_URL="https://github.com/Raspberry-Monster/u-boot/archive/${PKG_VERSION}.tar.gz"
 PKG_DEPENDS_TARGET="toolchain openssl:host pkg-config:host Python3:host swig:host pyelftools:host"
 PKG_LONGDESC="Das U-Boot is a cross-platform bootloader for embedded systems."
 
