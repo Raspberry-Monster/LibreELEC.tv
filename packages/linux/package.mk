@@ -16,8 +16,8 @@ PKG_PATCH_DIRS="${LINUX}"
 
 case "${LINUX}" in
   amlogic)
-    PKG_VERSION="1ea7b5f4f6e2ab8357b99331b4be9e5111492387" # mibox4-bringup
-    PKG_SHA256="2e9081a73f4869a62e2336ca54a5dfc0d7c8712748e76617b823654fb4ab854b"
+    PKG_VERSION="9e6841c994cd40fcda1a71215c37e3c2d7614e0d" # mibox4-bringup
+    PKG_SHA256="73c2b17e1b59c6601911b49aed3af0ecf1d88861acefabba41024649b93d7a77"
     PKG_URL="https://github.com/Raspberry-Monster/linux/archive/${PKG_VERSION}.tar.gz"
     PKG_SOURCE_NAME="linux-${LINUX}-${PKG_VERSION}.tar.gz"
     PKG_PATCH_DIRS="default dvb"

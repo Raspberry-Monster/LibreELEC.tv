@@ -3,8 +3,8 @@
 # Copyright (C) 2017-present Team LibreELEC (https://libreelec.tv)
 
 PKG_NAME="u-boot"
-PKG_VERSION="c82f9333630d37da2748c4e2d46786be03233685"
-PKG_SHA256="02973017e9f0482a5bd51f3dc7f35ea663e5910e5c3fd68e7f16b39cebabe342"
+PKG_VERSION="6c8d8d1b069e9b718db49f4cebf2b1eb3531f510"
+PKG_SHA256="2e0b801a6d6885aab1a03146fd191b018300264d0869ed497275e806590945e8"
 PKG_ARCH="arm aarch64"
 PKG_LICENSE="GPL-2.0-or-later"
 PKG_SITE="https://github.com/Raspberry-Monster/u-boot"

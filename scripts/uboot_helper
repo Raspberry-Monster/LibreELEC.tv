@@ -205,8 +205,8 @@ devices = \
         'config': 'libretech-cc_defconfig'
       },
       'mibox4': {
-        'dtb': 'meson-gxlx-mibox4.dtb',
-        'config': 'mibox4_defconfig'
+        'dtb': 'meson-gxlx-s905l-xiaomi-mibox4.dtb',
+        'config': 's905l-xiaomi-mibox4_defconfig'
       },
       'nanopi-k2': {
         'dtb': 'meson-gxbb-nanopi-k2.dtb',
