@@ -208,6 +208,10 @@ devices = \
         'dtb': 'meson-gxlx-s905l-xiaomi-mibox4.dtb',
         'config': 's905l-xiaomi-mibox4_defconfig'
       },
+      'mibox4s': {
+        'dtb': 'meson-gxl-s905x-xiaomi-mibox4s.dtb',
+        'config': 's905x-xiaomi-mibox4s_defconfig'
+      },
       'nanopi-k2': {
         'dtb': 'meson-gxbb-nanopi-k2.dtb',
         'config': 'nanopi-k2_defconfig'
